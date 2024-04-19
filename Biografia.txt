@@ -1,0 +1,4 @@
+Un diagrama entidad relación (también conocido como diagrama ER o diagrama ERD o
+simplemente ERD) muestra cómo interactúan las entidades (personas, objetos y
+conceptos). Estos modelos conceptuales de datos ayudan a desarrolladores y diseñadores
+a visualizar las relaciones entre elementos clave del software.
